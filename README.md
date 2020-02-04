@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/matt961github/AzurePipelinesGettingStarted/_apis/build/status/matt961.pipelines-java?branchName=master)](https://dev.azure.com/matt961github/AzurePipelinesGettingStarted/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
